@@ -1,0 +1,7 @@
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\bin\Debug\ConsoleApp4.exe.config
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\bin\Debug\ConsoleApp4.exe
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\bin\Debug\ConsoleApp4.pdb
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\obj\Debug\ConsoleApp4.exe
+C:\Users\МеДведь\Source\Repos\16.05.20\задача 1\obj\Debug\ConsoleApp4.pdb
